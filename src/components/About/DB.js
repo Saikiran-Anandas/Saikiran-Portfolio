@@ -1,17 +1,10 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiGit,
-} from "react-icons/di";
-import {
-  SiGithub,
-  SiGitlab,
   SiMongodb,
   SiMysql,
   SiPostgresql,
 } from "react-icons/si";
-import { FaAws } from "react-icons/fa";
 
 function Skills() {
   return (
